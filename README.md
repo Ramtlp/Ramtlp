@@ -2,4 +2,4 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects and c
 
 Fun fact: I'm passionate about coding and learning new technologies , you might find some related projects here too!"
 
-Email: singh.ram.tlp@gmail.com
+Email📧: singh.ram.tlp@gmail.com
